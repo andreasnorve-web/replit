@@ -1,1 +1,31 @@
 
+Lovable: # App: Minimalistisk Digital Alarmklokke
+Lovable: 
+Lovable: Dette er en moderne og minimalistisk web-applikasjon som fungerer som en digital klokke med integrert alarmfunksjon. Appen skal være visuelt tiltalende, enkel å bruke og fokusere på ren estetikk.
+Lovable: 
+Lovable: ## Hovedfunksjoner
+Lovable: - **Sanntidsvisning:** En stor, tydelig digital klokke som viser timer, minutter og sekunder i sanntid.
+Lovable: - **Dato:** Visning av dagens dato under klokkeslettet.
+Lovable: - **Alarmfunksjon:** Mulighet for brukeren å sette en alarm.
+Lovable: - **Alarmvarsling:** En visuell eller lydbasert indikasjon når den satte alarmtiden nås.
+Lovable: - **Statusindikasjon:** En enkel indikator som viser om en alarm er aktiv eller ikke.
+Lovable: 
+Lovable: ## Teknisk Stack
+Lovable: - **Frontend:** React (Vite) eller ren HTML5/JavaScript.
+Lovable: - **Styling:** Tailwind CSS for et polert og responsivt design.
+Lovable: - **Ikoner:** Lucide-react for minimalistiske ikoner (f.eks. bjelle-ikon).
+Lovable: 
+Lovable: ## Design og UI/UX
+Lovable: - **Stil:** Moderne og minimalistisk med mye luft (whitespace).
+Lovable: - **Bakgrunn:** Myk, mørk bakgrunn (Dark Mode-estetikk) eller en subtil gradient.
+Lovable: - **Typografi:** Bruk av en ren sans-serif font (f.eks. Inter eller Roboto Mono) for en teknisk, men moderne følelse.
+Lovable: - **Layout:** Sentrert innhold både horisontalt og vertikalt på skjermen.
+Lovable: - **Interaksjon:** Selv om hovedfokuset er visning, skal input-feltet for alarm være diskret og integrert i det minimalistiske designet.
+Lovable: 
+Lovable: ## Spesifikke krav
+Lovable: - Klokken skal oppdatere seg hvert sekund uten forsinkelse.
+Lovable: - Brukergrensesnittet skal skalere sømløst mellom mobil og desktop.
+Lovable: - Designet skal unngå unødvendige knapper eller komplekse menyer for å bevare det rene uttrykket.
+Lovable: 
+Lovable: BYGG DENNE
+BYGG DENNE
