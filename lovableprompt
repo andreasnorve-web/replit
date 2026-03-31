@@ -528,3 +528,28 @@ Lovable: *   **Visuelle elementer:** Bruk av kort (cards) for å skille mellom d
 Lovable: 
 Lovable: BYGG DENNE
 BYGG DENNE
+Lovable: # App: Hǎo Shíjiān (Kinesisk Klokke-lærer)
+Lovable: 
+Lovable: Dette er en interaktiv klokke-app designet for å hjelpe brukere med å lære og forstå klokkeslett på forenklet kinesisk (Mandarin). Appen konverterer sanntid eller valgt tid til kinesiske tegn (Hanzi) og tilbyr lydstøtte for uttale.
+Lovable: 
+Lovable: ### Hovedfunksjoner:
+Lovable: *   **Dynamisk Visning:** Visning av gjeldende klokkeslett med forenklede kinesiske tegn (f.eks. 十二点三十分).
+Lovable: *   **Formatvelger:** Brukeren skal kunne veksle mellom 12-timers og 24-timers format.
+Lovable: *   **Pinyin-visning:** Mulighet for å skru av/på Pinyin (fonetisk skrift) over tegnene for å hjelpe med lesing.
+Lovable: *   **Lydavspilling:** En "Spill av"-knapp som bruker Text-to-Speech (TTS) for å lese opp klokkeslettet på kinesisk for uttale-trening.
+Lovable: *   **Manuelt tidspunkt:** En funksjon der brukeren kan velge et spesifikt tidspunkt for å se hvordan det skrives og høres ut på kinesisk.
+Lovable: 
+Lovable: ### Teknologi/Stack:
+Lovable: *   **Frontend:** React med Tailwind CSS for et moderne og rent grensesnitt.
+Lovable: *   **Ikoner:** Lucide-react.
+Lovable: *   **Lyd:** Web Speech API for kinesisk (Mandarin) stemmesyntese.
+Lovable: *   **Logikk:** JavaScript-funksjon som oversetter tall til kinesiske nummersystemer og legger til korrekte partikler (点, 分, 刻, osv.).
+Lovable: 
+Lovable: ### UI/Design-krav:
+Lovable: *   **Minimalistisk estetikk:** Et rent, Zen-inspirert design med fokus på lesbarhet.
+Lovable: *   **Kontraster:** Stor og tydelig visning av de kinesiske tegnene midt på skjermen.
+Lovable: *   **Responsivt design:** Appen må fungere like godt på mobil som på desktop.
+Lovable: *   **Visuelle tilbakemeldinger:** Subtile animasjoner når klokken oppdateres eller når brukeren trykker på knapper.
+Lovable: 
+Lovable: BYGG DENNE
+BYGG DENNE
