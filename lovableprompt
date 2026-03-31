@@ -71,3 +71,51 @@ Lovable: - En "Copy to clipboard"-knapp for resultatet.
 Lovable: 
 Lovable: Vennligst sett opp hele prosjektstrukturen og implementer logikken for interaksjon mellom kalkulatoren og graf-modulen.
 BYGG DENNE
+Lovable: Her er den endelige, detaljerte prompten optimalisert for Replit Agent. Denne inneholder alt vi har diskutert, inkludert teknisk stack, funksjonalitet og designkrav.
+Lovable: 
+Lovable: Klipp og lim teksten under direkte inn i chatten med Replit Agent.
+Lovable: 
+Lovable: ***
+Lovable: 
+Lovable: # App: Familie CO2e-Teller
+Lovable: 
+Lovable: Bygg en fullstendig web-applikasjon som hjelper en familie med å spore og redusere sitt felles og individuelle CO2e-utslipp (karbonavtrykk).
+Lovable: 
+Lovable: ### Teknisk Stack
+Lovable: - **Backend:** Python med Flask eller FastAPI.
+Lovable: - **Frontend:** HTML5, Tailwind CSS for moderne design, og Chart.js for visualisering.
+Lovable: - **Database:** Replit PostgreSQL for permanent lagring av data.
+Lovable: - **Språk:** Hele brukergrensesnittet skal være på **norsk**.
+Lovable: 
+Lovable: ### Hovedfunksjoner
+Lovable: 1. **Brukerhåndtering:**
+Lovable:    - Mulighet for å opprette profiler for hvert familiemedlem.
+Lovable:    - Enkel innlogging eller valg av profil ved oppstart.
+Lovable: 
+Lovable: 2. **Registrering av utslipp (Logging):**
+Lovable:    - Et brukervennlig skjema for å legge inn aktiviteter i fire kategorier:
+Lovable:      - **Transport:** (Bil, buss, tog, elsykkel). Beregn basert på kilometer.
+Lovable:      - **Strøm/Energi:** (Strømforbruk i kWh eller oppvarming).
+Lovable:      - **Mat:** (Kjøttmåltider vs. vegetar, matsvinn).
+Lovable:      - **Flyreiser:** (Korte og lange distanser).
+Lovable:    - Bruk standardiserte CO2e-faktorer (f.eks. fra offentlige kilder) for å beregne kg CO2e bak kulissene.
+Lovable: 
+Lovable: 3. **Dashboard og Visualisering:**
+Lovable:    - **Felles oversikt:** Viser familiens totale utslipp denne måneden vs. forrige måned.
+Lovable:    - **Leaderboard:** En vennlig sammenligning av familiemedlemmene for å motivere til lavere utslipp.
+Lovable:    - **Grafer:** Bruk kakediagram for fordeling mellom kategorier og linjediagram for utslipp over tid.
+Lovable: 
+Lovable: 4. **Database-struktur:**
+Lovable:    - Tabell for 'Users' (navn, profilbilde/ikon).
+Lovable:    - Tabell for 'Entries' (bruker_id, kategori, mengde, beregnet_co2e, dato).
+Lovable: 
+Lovable: ### UI/Design-krav
+Lovable: - **Stil:** Rent, moderne og "grønt" uttrykk (bruk Tailwind farger som emerald, slate og amber).
+Lovable: - **Responsivitet:** Appen må fungere like bra på mobil som på desktop.
+Lovable: - **Brukervennlighet:** Store knapper for "Hurtigregistrering" og tydelige tilbakemeldinger når data er lagret.
+Lovable: 
+Lovable: ### Logikk for beregning
+Lovable: - Legg inn noen standardverdier for CO2e-faktorer i koden (f.eks: Bensinbil = 0.2kg/km, Fly = 0.15kg/km, Kjøttmåltid = 2.0kg). Gjør det enkelt for brukeren å bare skrive inn antall (km, måltider eller timer).
+Lovable: 
+Lovable: **Begynn med å sette opp databasemodellen og det grunnleggende grensesnittet på norsk.**
+BYGG DENNE
