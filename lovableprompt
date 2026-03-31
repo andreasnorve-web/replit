@@ -670,3 +670,32 @@ Lovable: *   Sørg for at ukenummer-beregningen følger norsk standard (der uken
 Lovable: 
 Lovable: BYGG DENNE
 BYGG DENNE
+Lovable: # App: LensAI Pro - AI-Bildegenerator for Fotografer
+Lovable: 
+Lovable: Dette er en avansert AI-bildegenerator (tekst-til-bilde) skreddersydd for profesjonelle fotografer. Appen skal kombinere kraften i kunstig intelligens med direkte kamera-funksjonalitet for å skape unike visuelle konsepter.
+Lovable: 
+Lovable: ## Hovedfunksjoner
+Lovable: *   **AI-Bildegenerering:** Et tekstfelt der brukeren kan skrive inn avanserte "prompts" for å generere høykvalitetsbilder.
+Lovable: *   **Kamera-integrasjon:** Mulighet for å bruke enhetens kamera direkte i appen, enten for referansebilder eller som basis for AI-manipulasjon.
+Lovable: *   **Lokal Lagring:** Alle genererte bilder skal lagres lokalt på brukerens enhet for å sikre personvern og rask tilgang til filer i høy oppløsning.
+Lovable: *   **Pro-kontroller:** Innstillinger for bildeformat (aspect ratio), oppløsning og stilvalg som er relevante for profesjonelle brukere.
+Lovable: 
+Lovable: ## Teknisk Stack
+Lovable: *   **Frontend:** React (Vite) med Tailwind CSS for et rent og moderne grensesnitt.
+Lovable: *   **Backend:** Python (FastAPI/Flask) for håndtering av AI-kall.
+Lovable: *   **AI-Integrasjon:** Integrasjon med et bildegenererings-API (f.eks. DALL-E 3, Stable Diffusion eller Replicate).
+Lovable: *   **Lagring:** Implementasjon av disk-skriving eller nettleser-basert filhåndtering for lokal lagring.
+Lovable: 
+Lovable: ## UI/Design-krav
+Lovable: *   **Minimalistisk "Pro" Look:** Mørkt tema (Dark Mode) som standard, lik profesjonell programvare som Adobe Lightroom eller Capture One.
+Lovable: *   **Responsivt Design:** Skal fungere sømløst på både mobil og desktop.
+Lovable: *   **Galleri-visning:** En oversiktlig visning av de genererte bildene som er lagret lokalt.
+Lovable: *   **Sanntids-feedback:** Laste-indikatorer og forhåndsvisning mens AI-en genererer bildet.
+Lovable: 
+Lovable: ## Spesifikke instruksjoner for Replit Agent
+Lovable: *   Sett opp en robust struktur for å håndtere API-nøkler sikkert.
+Lovable: *   Sørg for at kamera-strømmen er optimalisert og ber om nødvendige tillatelser.
+Lovable: *   Lag en enkel eksport-funksjon slik at brukeren kan organisere bildene i mapper på enheten.
+Lovable: 
+Lovable: BYGG DENNE
+BYGG DENNE
