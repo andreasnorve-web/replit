@@ -765,3 +765,31 @@ Lovable: 2.  **Spillslutt:** Når tiden går ut, vises et oppsummeringsbilde med
 Lovable: 
 Lovable: BYGG DENNE
 BYGG DENNE
+Lovable: # App: Sápmi Ur – Nordsamisk Analog Klokke
+Lovable: 
+Lovable: Dette er en stilren og kulturelt forankret klokke-app som viser tiden med nordsamisk tekst og et design inspirert av samisk tradisjon. Appen skal fungere som et visuelt urverk som kombinerer moderne teknologi med nordsamisk språk.
+Lovable: 
+Lovable: ## Hovedfunksjoner
+Lovable: - **Analog urskive:** Et sentralt, animert analogt ur med time-, minutt- og sekundvisere.
+Lovable: - **Nordsamisk tidsvisning:** Under den analoge klokken skal tiden skrives ut i tekstform på nordsamisk (f.eks. "Vielja lea vihtta badjel guokte" eller tilsvarende korrekt nordsamisk tidsangivelse).
+Lovable: - **Sanntidsoppdatering:** Klokken og teksten skal oppdatere seg automatisk hvert sekund.
+Lovable: - **Responsivitet:** Appen skal fungere like godt på mobil som på desktop (PWA-vennlig).
+Lovable: 
+Lovable: ## UI/Design-krav
+Lovable: - **Samisk estetikk:** Bruk fargene fra det samiske flagget (rødt, blått, gult og grønt) som aksentfarger på en harmonisk måte.
+Lovable: - **Urskive-design:** Urskiven skal ha et unikt, samisk-inspirert utseende. Dette kan inkludere elementer som minner om mønster fra duodji (samisk håndverk) eller trommemønstre (goavddis).
+Lovable: - **Bakgrunn:** En ren, mørk eller nøytral bakgrunn som får klokkene og de fargerike elementene til å poppe.
+Lovable: - **Typografi:** Bruk en moderne, lettlest font som støtter nordsamiske spesialtegn som Á, Č, Đ, Ŋ, Š, Ŧ og Ž.
+Lovable: 
+Lovable: ## Teknologi
+Lovable: - **Rammeverk:** React eller ren HTML/JS (valgt av Replit Agent for best ytelse).
+Lovable: - **Stiling:** Tailwind CSS for moderne og rask styling.
+Lovable: - **Animasjoner:** Bruk CSS-animasjoner eller et lettvektsbibliotek (som Framer Motion) for å sikre at viserne går glatt.
+Lovable: 
+Lovable: ## Språkdetaljer (Nordsamisk)
+Lovable: Appen skal bruke korrekte nordsamiske benevnelser for tall og klokkeslett:
+Lovable: - Tall: okta, guokte, golbma, njeallje, vihtta, guhtta, čieža, gávcci, ovcci, logi, oktanuppelohkái, guoktenuppelohkái.
+Lovable: - Begreper: "badjel" (over), "vuoitu" (på/i), "bealli" (halv).
+Lovable: 
+Lovable: BYGG DENNE
+BYGG DENNE
