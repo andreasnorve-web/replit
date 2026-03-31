@@ -582,3 +582,32 @@ Lovable: *   Sørg for at applikasjonen har en tydelig "Refresh"-knapp i tillegg
 Lovable: 
 Lovable: BYGG DENNE
 BYGG DENNE
+Lovable: # App: AI Art Frame Evolution
+Lovable: 
+Lovable: Dette er en interaktiv digital bilderamme-applikasjon designet for nettbrett. Appen fungerer som et levende kunstverk som genererer et nytt, unikt AI-bilde hver time. Den har en innebygd læringsmekanisme (evolusjonær stil) som tilpasser kunstuttrykket basert på brukerens interaksjoner og preferanser over tid.
+Lovable: 
+Lovable: ### Hovedfunksjoner:
+Lovable: - **Automatisk generering:** Appen genererer et nytt kunstverk hver 60. minutt ved hjelp av en bilde-genererings-API (f.eks. OpenAI DALL-E).
+Lovable: - **Evolusjonær læring:** Systemet bruker en feedback-loop for å lære brukerens smak. Ved å analysere hvilke bilder som blir sett ferdig, og hvilke som blir skippet, justeres "prompt-ingeniøren" i bakgrunnen for å treffe brukerens stilpreferanser bedre over tid.
+Lovable: - **Manuell kontroll:** En diskret "Skip"-knapp lar brukeren generere et nytt bilde umiddelbart hvis det nåværende ikke faller i smak.
+Lovable: - **Fullskjermsvisning:** Et rent grensesnitt optimalisert for nettbrett (iPad/Android) som fjerner alle forstyrrende elementer og lar kunsten stå i fokus.
+Lovable: - **Historikk/Arkiv:** En enkel måte å se tilbake på tidligere genererte bilder som har blitt godt mottatt.
+Lovable: 
+Lovable: ### Teknologi-stack:
+Lovable: - **Frontend:** React eller Next.js (optimalisert for web-visning på nettbrett).
+Lovable: - **Backend:** Node.js for håndtering av API-kall og logikk for bildevalg.
+Lovable: - **AI-integrasjon:** OpenAI DALL-E API (eller tilsvarende) for bildegenerering.
+Lovable: - **Database:** En lettvekt database (f.eks. Supabase eller Firebase) for å lagre preferanse-data, nøkkelord for den evolusjonære stilen og bildehistorikk.
+Lovable: 
+Lovable: ### UI/Design-krav:
+Lovable: - **Minimalisme:** Ingen synlige menyer eller knapper som standard. Kontroller (som "Skip" og "Lik") skal kun dukke opp ved et lett trykk på skjermen.
+Lovable: - **Ramme-estetikk:** Mulighet for å velge en digital "paspartout" eller rammekant rundt bildet.
+Lovable: - **Elegant overgang:** Myke "fade-in/fade-out" animasjoner når et bilde byttes ut.
+Lovable: - **Statusindikator:** En diskret timer eller fremdriftslinje som viser når neste kunstverk er klart.
+Lovable: 
+Lovable: ### Spesielle instruksjoner for logikk:
+Lovable: - Implementer en "Prompt Generator"-modul som starter med varierte stiler (f.eks. abstrakt, impresjonisme, surrealisme). 
+Lovable: - Når brukeren skinner eller liker bilder, skal vekten av nøkkelordene i denne modulen endre seg for å favorisere de foretrukne stilartene og fargepalettene.
+Lovable: 
+Lovable: BYGG DENNE
+BYGG DENNE
