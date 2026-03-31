@@ -1,2 +1,39 @@
 
 Lovable: Lag en kalkulator
+Lovable: Her er den fullstendige, strukturerte prompten du kan lime rett inn i Replit Agent. Den er designet for å gi deg en profesjonell, moderne og funksjonsrik kalkulator.
+Lovable: 
+Lovable: ***
+Lovable: 
+Lovable: # App: Advanced Modern Web-Calculator
+Lovable: 
+Lovable: Bygg en avansert, fullstendig responsiv web-kalkulator med et moderne "Glassmorphism"-design. Appen skal fungere både som en standard kalkulator og en vitenskapelig kalkulator, inkludert funksjonalitet for historikk og plotting av grafer.
+Lovable: 
+Lovable: ### **1. Hovedfunksjoner:**
+Lovable: - **Dobbeltmodus:** Mulighet for å bytte mellom "Enkel" (aritmetikk) og "Vitenskapelig" modus (trigonometri, logaritmer, potenser, kvadratrot).
+Lovable: - **Avansert matematikk:** Støtte for `sin`, `cos`, `tan`, `log`, `ln`, `e`, `π`, `^` (potens) og parenteser.
+Lovable: - **Interaktiv Grafing:** En egen seksjon eller knapp som lar brukeren skrive inn en funksjon (f.eks. `f(x) = x^2`) og tegne den i et koordinatsystem (bruk Chart.js eller lignende bibliotek).
+Lovable: - **Historikk:** En sidemeny eller scrollbar liste som lagrer de siste 10 utregningene. Brukeren skal kunne klikke på et tidligere resultat for å sette det inn i det nåværende regnestykket.
+Lovable: - **Tastaturstøtte:** Full funksjonalitet for å bruke talltastatur og spesialtaster (Enter for `=`, Backspace for sletting).
+Lovable: 
+Lovable: ### **2. Teknologi / Stack:**
+Lovable: - **Frontend:** React (Vite) eller ren HTML5/JavaScript med Tailwind CSS for styling.
+Lovable: - **Biblioteker:** 
+Lovable:     - `mathjs` for presis håndtering av komplekse matematiske uttrykk.
+Lovable:     - `Chart.js` eller `Plotly.js` for graftegning.
+Lovable:     - `Lucide React` eller `FontAwesome` for ikoner.
+Lovable: 
+Lovable: ### **3. UI/Design-krav:**
+Lovable: - **Stil:** Glassmorphism-design (halvgjennomsiktig bakgrunn, subtile skygger, blur-effekter).
+Lovable: - **Farger:** Dark Mode som standard (mørk grå/svart bakgrunn med aksentfarger som dyp blå eller lilla for funksjonsknapper).
+Lovable: - **Responsivitet:** Appen må skalere perfekt fra mobilskjerm til desktop. Knappene skal ha tydelige "hover"- og "active"-tilstander.
+Lovable: - **Display:** Et stort hoveddisplay som viser nåværende utregning i sanntid, med en mindre linje over som viser det forrige tallet/operasjonen.
+Lovable: 
+Lovable: ### **4. Spesifikk Logikk:**
+Lovable: - Implementer feilhåndtering (vis "Error" ved deling på null eller ugyldige syntakser).
+Lovable: - Sørg for at trigonometriske funksjoner kan bytte mellom grader (DEG) og radianer (RAD).
+Lovable: - Bruk `Local Storage` for å lagre historikken slik at den overlever en sideoppdatering.
+Lovable: 
+Lovable: ***
+Lovable: 
+Lovable: **Instruksjon til Replit Agent:** 
+Lovable: *Vennligst start med å sette opp grunnstrukturen i React. Bruk Tailwind CSS for all styling. Implementer `mathjs` for å evaluere strenger for å sikre korrekt rekkefølge av operasjoner (PEMDAS).*
