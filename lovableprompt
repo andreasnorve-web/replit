@@ -404,3 +404,41 @@ Lovable: *   **Sikkerhet:** Ingen menyer som fører ut av appen eller komplisert
 Lovable: 
 Lovable: BYGG DENNE
 BYGG DENNE
+Lovable: # App: PL-Live: Premier League Hub
+Lovable: 
+Lovable: Dette er en moderne og sanntidsfokusert web-applikasjon som leverer direktesendte fotballresultater og dyp statistikk eksklusivt for Premier League. Appen skal gi brukerne en følelse av å være tett på kampen gjennom detaljerte data og interaktive elementer.
+Lovable: 
+Lovable: ### Hovedfunksjoner
+Lovable: *   **Live Scoreboard:** Sanntidsoppdatering av resultater for alle Premier League-kamper.
+Lovable: *   **Avansert Kampstatistikk:** For hver live-kamp skal appen vise:
+Lovable:     *   Ballbesittelse (prosentfordeling).
+Lovable:     *   Skudd på mål vs. skudd utenfor.
+Lovable:     *   Expected Goals (xG) i sanntid.
+Lovable:     *   Hjørnespark og gule/røde kort.
+Lovable: *   **Favorittlag og Varsling:** 
+Lovable:     *   Brukere kan velge sitt favorittlag.
+Lovable:     *   Simulerte push-varsler/notifications ved mål, kampstart og sluttsignal for valgte lag.
+Lovable: *   **Interaktive Avstemninger:** 
+Lovable:     *   "Hvem vinner?"-pollen før og under hver kamp.
+Lovable:     *   Visning av stemmefordeling blant brukerne i sanntid.
+Lovable: *   **Tabelloversikt:** En alltid oppdatert Premier League-tabell.
+Lovable: 
+Lovable: ### Teknologi og Stakk
+Lovable: *   **Framework:** React med Vite (for rask respons).
+Lovable: *   **Styling:** Tailwind CSS for et rent og moderne grensesnitt.
+Lovable: *   **Datahåndtering:** Integrasjon mot et fotball-API (f.eks. API-Football eller lignende som støtter PL-data).
+Lovable: *   **Backend/Database:** Bruk Replit sin innebygde database (eller Firebase) for å lagre avstemningsresultater og brukerinnstillinger.
+Lovable: 
+Lovable: ### UI/Design-krav
+Lovable: *   **Mørkt og profesjonelt tema:** Bruk mørke bakgrunner med aksentfarger som minner om offisielle Premier League-farger (lilla, hvit, neon-grønn).
+Lovable: *   **Responsivt Design:** Appen må fungere sømløst på både mobil og desktop.
+Lovable: *   **Visuelle grafer:** Bruk grafer eller fremdriftsfelt for å visualisere ballbesittelse og skuddstatistikk.
+Lovable: *   **Live-indikator:** Tydelig "LIVE"-markør på kamper som pågår.
+Lovable: 
+Lovable: ### Brukeropplevelse
+Lovable: *   Hjemmesiden skal liste dagens kamper øverst.
+Lovable: *   Klikk på en kamp skal åpne en detaljert visning med statistikk og avstemning.
+Lovable: *   En egen fane for tabell og en "Mitt lag"-seksjon for rask tilgang til favorittklubbens nyeste data.
+Lovable: 
+Lovable: BYGG DENNE
+BYGG DENNE
