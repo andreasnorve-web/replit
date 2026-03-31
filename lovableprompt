@@ -286,3 +286,31 @@ Lovable: *   Oppdateringsfrekvens: Klokken skal oppdateres hvert sekund for å i
 Lovable: 
 Lovable: BYGG DENNE
 BYGG DENNE
+Lovable: # App: FiskåVær
+Lovable: 
+Lovable: Dette er en dedikert værvarslingsapplikasjon skreddersydd spesifikt for lokalbefolkningen i Fiskåbygd. Appen skal gi nøyaktige og lettfattelige værdata med fokus på sanntidsoppdateringer og sikkerhet ved ekstreme værforhold.
+Lovable: 
+Lovable: ## Hovedfunksjoner
+Lovable: *   **Sanntidsvarsel (Time for time):** Detaljert oversikt over temperatur, nedbør, vindstyrke og vindretning for de neste 24 timene, spesifikt lokalisert til Fiskåbygd.
+Lovable: *   **Ekstremværvarsling:** Integrert system for push-varsler som aktiveres ved farevarsler eller ekstreme værforhold (f.eks. storm, kraftig nedbør eller glatte veier).
+Lovable: *   **7-dagers oversikt:** En enkel oversikt over de kommende dagene for langsiktig planlegging.
+Lovable: *   **Lokalt fokus:** Appen skal tydelig vise at dataene gjelder Fiskåbygd, gjerne med et lokalt bilde eller stedsnavn fremhevet i designet.
+Lovable: 
+Lovable: ## Teknologi & Datakilder
+Lovable: *   **Datakilde:** Meteorologisk institutt (MET/Yr.no API - Locationforecast og Danger signals).
+Lovable: *   **Frontend:** Moderne web-applikasjon (React/Vite eller lignende) som er mobilvennlig (PWA-kapabilitet er ønskelig).
+Lovable: *   **Backend:** Node.js/Python for håndtering av API-kall og logikk for varslinger.
+Lovable: 
+Lovable: ## UI/Design-krav
+Lovable: *   **Brukervennlighet:** Rent og intuitivt grensesnitt som passer alle aldersgrupper i lokalbefolkningen.
+Lovable: *   **Visuelle elementer:** Bruk av vær-ikoner (sol, regn, skyer) som korresponderer med Yr.no sin standard.
+Lovable: *   **Fargekoding:** Bakgrunnsfarger som endrer seg etter værforhold og tid på døgnet (f.eks. mørkeblå om natten, lysere farger på dagtid).
+Lovable: *   **Responsivt design:** Skal fungere sømløst på både smarttelefoner og desktop.
+Lovable: 
+Lovable: ## Spesifikke Instruksjoner
+Lovable: 1. Sett opp API-integrasjon mot MET Norway API med koordinatene for Fiskåbygd.
+Lovable: 2. Implementer en logikk som sjekker for "Farevarsel" (Danger signals) og viser disse tydelig øverst i appen.
+Lovable: 3. Sørg for at time-for-time visningen er den mest fremtredende delen av hjemskjermen.
+Lovable: 
+Lovable: BYGG DENNE
+BYGG DENNE
