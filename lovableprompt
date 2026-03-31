@@ -699,3 +699,39 @@ Lovable: *   Lag en enkel eksport-funksjon slik at brukeren kan organisere bilde
 Lovable: 
 Lovable: BYGG DENNE
 BYGG DENNE
+Lovable: # App: SpanskKlokke - Lær klokka på spansk
+Lovable: 
+Lovable: Dette er en interaktiv og fargerik læringsapp designet for barn og nybegynnere. Formålet med appen er å lære brukeren hvordan man uttrykker klokkeslett på spansk gjennom engasjerende spillmekanikk.
+Lovable: 
+Lovable: ### Hovedfunksjoner:
+Lovable: *   **Interaktiv Klokke:** En analog klokke som viser ulike tider.
+Lovable: *   **Læringsmodus:** En enkel introduksjon til de grunnleggende reglene for spansk tidstaking (f.eks. "Es la una" vs "Son las dos").
+Lovable: *   **Spillmodus (Quiz):**
+Lovable:     *   Brukeren får oppgitt et klokkeslett i tekstform på spansk og må stille klokken riktig, eller velge riktig alternativ blant flere valg.
+Lovable:     *   **Tidspress:** En nedtelling for hver oppgave for å øke spenningen.
+Lovable:     *   **Poengsystem:** Brukeren tjener poeng for riktige svar.
+Lovable:     *   **Nivåer:** Vanskelighetsgraden øker (fra hele timer til kvarter og halvtimer).
+Lovable: *   **Belønning:** Visuelle feiringer (konfetti/stjerner) når brukeren klarer et nivå eller får høy score.
+Lovable: 
+Lovable: ### Teknologi/Stack:
+Lovable: *   **Framework:** React (Vite-oppsett)
+Lovable: *   **Styling:** Tailwind CSS (for et fargerikt og responsivt design)
+Lovable: *   **Ikoner:** Lucide-react
+Lovable: *   **Animasjoner:** Framer Motion (for glatte overganger og spenteffekter)
+Lovable: 
+Lovable: ### UI/Design-krav:
+Lovable: *   **Barnevennlig:** Bruk store knapper, klare fonter og en lys, leken fargepalett (pasteller eller sterke primærfarger).
+Lovable: *   **Visuelt fokus:** Den analoge klokken skal være sentral i brukergrensesnittet.
+Lovable: *   **Responsivt:** Appen må fungere like godt på nettbrett som på mobil og desktop.
+Lovable: *   **Enkel navigasjon:** Minimale tekstmenyer, bruk heller ikoner og tydelige instruksjoner.
+Lovable: 
+Lovable: ### Innhold og logikk:
+Lovable: *   Fokus på grunnleggende setningsoppbygging: "Es la..." for klokken ett, og "Son las..." for alle andre timer.
+Lovable: *   Inkluder uttrykk som:
+Lovable:     *   "En punto" (Hele timer)
+Lovable:     *   "Y cuarto" (Kvart over)
+Lovable:     *   "Y media" (Halv)
+Lovable:     *   "Menos cuarto" (Kvart på)
+Lovable: 
+Lovable: BYGG DENNE
+BYGG DENNE
