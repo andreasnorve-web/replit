@@ -37,3 +37,37 @@ Lovable: ***
 Lovable: 
 Lovable: **Instruksjon til Replit Agent:** 
 Lovable: *Vennligst start med å sette opp grunnstrukturen i React. Bruk Tailwind CSS for all styling. Implementer `mathjs` for å evaluere strenger for å sikre korrekt rekkefølge av operasjoner (PEMDAS).*
+Lovable: Siden vi bygger en "avansert kalkulator", har jeg inkludert både vitenskapelige funksjoner, grafplotting og historikk for å sikre at den blir kraftfull og moderne.
+Lovable: 
+Lovable: Her er den ferdige prompten du kan lime direkte inn i Replit Agent:
+Lovable: 
+Lovable: ***
+Lovable: 
+Lovable: # App: Advanced Multi-Functional Calculator
+Lovable: 
+Lovable: Lag en avansert og moderne web-basert kalkulator med et profesjonelt brukergrensesnitt. Appen skal kombinere tradisjonell kalkulator-funksjonalitet med avansert matematisk analyse.
+Lovable: 
+Lovable: ### Hovedfunksjoner:
+Lovable: - **Standard og Vitenskapelig modus:** Støtte for alle grunnleggende operasjoner, samt `sin`, `cos`, `tan`, `log`, `ln`, `sqrt`, potenser (`^`), og parenteser.
+Lovable: - **Graf-plotting:** Et eget panel eller visning der brukeren kan skrive inn en funksjon (f.eks. `f(x) = x^2`) og se grafen tegnet dynamisk. Bruk et bibliotek som Chart.js eller Plotly for dette.
+Lovable: - **Historikk-logg:** En sidebar eller et lukkbart panel som lagrer de siste 10–20 utregningene. Brukeren skal kunne klikke på en tidligere utregning for å sette resultatet inn i displayet igjen.
+Lovable: - **Ligningsløser:** En enkel funksjon for å løse x i førstegrads- og andregradsligninger.
+Lovable: 
+Lovable: ### Teknologi-stack:
+Lovable: - **Frontend:** React med Tailwind CSS for styling.
+Lovable: - **Matematisk logikk:** Math.js-biblioteket for presis håndtering av komplekse utregninger og parsing av tekststrenger.
+Lovable: - **Ikoner:** Lucide-react for moderne ikoner.
+Lovable: 
+Lovable: ### UI/Design-krav:
+Lovable: - **Tema:** Et "Dark Mode"-først design med dype lilla og mørkegrå toner (Slate/Zinc). Bruk subtile animasjoner når man trykker på knapper.
+Lovable: - **Layout:** Responsivt design. Kalkulatoren skal se ut som en fysisk enhet sentrert på skjermen på desktop, men flyte ut på mobil.
+Lovable: - **Display:** Et stort, tydelig display som viser både den nåværende inputen og det foreløpige resultatet i sanntid.
+Lovable: - **Glassmorphism:** Bruk gjerne en lett glass-effekt (backdrop-blur) på knappene og panelene for et moderne utseende.
+Lovable: 
+Lovable: ### Brukeropplevelse:
+Lovable: - Støtte for både tastatur-input og klikking på knapper.
+Lovable: - Feilhåndtering som viser "Error" eller beskrivende meldinger hvis brukeren skriver inn ugyldig syntaks.
+Lovable: - En "Copy to clipboard"-knapp for resultatet.
+Lovable: 
+Lovable: Vennligst sett opp hele prosjektstrukturen og implementer logikken for interaksjon mellom kalkulatoren og graf-modulen.
+BYGG DENNE
