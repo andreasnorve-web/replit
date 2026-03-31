@@ -553,3 +553,32 @@ Lovable: *   **Visuelle tilbakemeldinger:** Subtile animasjoner når klokken opp
 Lovable: 
 Lovable: BYGG DENNE
 BYGG DENNE
+Lovable: # App: Coca-Cola Stock Tracker (KO)
+Lovable: 
+Lovable: Dette er en dedikert mobilapplikasjon for sporing av Coca-Cola (KO) aksjekurs i sanntid. Appen skal gi investorer en rask og oversiktlig måte å overvåke aksjens ytelse på, inkludert markedstrender og profesjonelle vurderinger.
+Lovable: 
+Lovable: ## Hovedfunksjoner
+Lovable: *   **Sanntidskurs:** Vise gjeldende pris for Coca-Cola (KO) med live-oppdateringer.
+Lovable: *   **Prishistorikk:** Interaktivt linjediagram som viser kursutvikling over ulike tidsintervaller (f.eks. 1D, 5D, 1M, 1Y).
+Lovable: *   **Analytiker-anbefalinger:** En dedikert seksjon som viser konsensus fra finansanalytikere (Kjøp, Hold, Selg).
+Lovable: *   **Nøkkeltall:** Visning av dagens høyeste/laveste, volum og markedskapitalisering.
+Lovable: *   **Automatisk oppdatering:** Appen skal hente ferske data med jevne mellomrom ved bruk av et gratis finans-API.
+Lovable: 
+Lovable: ## Teknologi og Stack
+Lovable: *   **Rammeverk:** React Native eller Flutter (for mobiloptimalisert opplevelse).
+Lovable: *   **Datakilde:** Integrasjon med et gratis API som Alpha Vantage eller Yahoo Finance via en proxy/backend-løsning.
+Lovable: *   **Backend:** En enkel Node.js server (hvis nødvendig for API-nøkkel-håndtering) eller direkte integrasjon i frontend.
+Lovable: *   **Grafer:** `react-native-chart-kit` eller tilsvarende bibliotek for vakre grafer.
+Lovable: 
+Lovable: ## UI/Design-krav
+Lovable: *   **Tema:** Merkevarefarger for Coca-Cola (Rød #F40009, Hvit og Sort) for en profesjonell, men gjenkjennelig stil.
+Lovable: *   **Enkelhet:** Rent og ryddig grensesnitt ("Clean UI") med fokus på lesbarhet.
+Lovable: *   **Responsivitet:** Appen må være optimalisert for både iOS og Android skjermstørrelser.
+Lovable: *   **Statusindikatorer:** Bruke grønt/rødt for å indikere prisstigning eller prisfall.
+Lovable: 
+Lovable: ## Spesielle Instruksjoner
+Lovable: *   Håndter API-begrensninger (Rate limiting) ved å implementere enkel caching eller varsling til brukeren om dataene ikke kan hentes umiddelbart.
+Lovable: *   Sørg for at applikasjonen har en tydelig "Refresh"-knapp i tillegg til automatisk henting.
+Lovable: 
+Lovable: BYGG DENNE
+BYGG DENNE
