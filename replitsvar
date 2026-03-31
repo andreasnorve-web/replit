@@ -1,5 +1,22 @@
-Status: Prompt mottatt og sendt til bygging
-Tidspunkt: 2026-03-31 18:05:46
-Byggord: BYGG DENNE oppdaget
+# Bygg fullført: Familie CO2e-Teller
 
-Replit Agent har mottatt prompten og vil bygge appen. Svaret oppdateres når byggingen er fullført.
+**Bygget:** Familie CO2e-Teller  
+**URL:** https://[replit-domain]/co2/  
+**Status:** ✅ Ferdig
+
+## Hva som ble bygget
+
+En fullstack familieapp for å spore CO2-utslipp, med:
+
+- **Dashboard** — Månedlig oversikt, kategorifordeling (kakediagram), tidslinje (30 dager), og familieleaderboard
+- **Registrering** — Logg aktiviteter per kategori: Transport (km), Strøm/Energi (kWh), Mat (måltider), Flyreise (km)
+- **Profiler** — Administrer familiemedlemmer med emoji-ikoner
+- **Historikk** — Fullstendig aktivitetslogg med filtrering etter bruker og måned
+
+## Teknisk
+
+- React + Vite frontend med norsk UI
+- PostgreSQL-database (users + entries tabeller)
+- REST API med CO2e-faktorer per kategori
+- Recharts for visualisering
+- Grønt/varm earth-tones design-tema (emerald + slate)
