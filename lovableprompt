@@ -340,3 +340,38 @@ Lovable: *   Objekter skal inneholde: `brand_name`, `product_name`, `calories_pe
 Lovable: 
 Lovable: BYGG DENNE
 BYGG DENNE
+Lovable: # App: IdeaStream - Lynraskt tankekart for akademikere
+Lovable: 
+Lovable: Dette er en minimalistisk og effektiv mobil-først webapplikasjon designet for studenter og akademikere som trenger å fange opp tanker, forskningsideer og forelesningsnotater umiddelbart før de forsvinner. Appen fungerer som en mellomstasjon (buffer) der ideer registreres raskt og senere eksporteres til mer robuste fagsystemer.
+Lovable: 
+Lovable: ## Hovedfunksjoner
+Lovable: *   **Lynrask registrering:** Appen skal åpne direkte i et nytt notat-felt med fokus på tastaturet for øyeblikkelig inntasting.
+Lovable: *   **To innholdsformater:** Støtte for både rene tekstnotater og enkle sjekklister/punktlister.
+Lovable: *   **Kategorisering:** Mulighet for å legge til enkle emneknagger (tags) for å skille mellom fag, prosjekter eller personlige ideer.
+Lovable: *   **Eksport-hub:** En dedikert funksjon for å sende notater videre til:
+Lovable:     *   **Notion:** (Via API eller strukturert kopiering).
+Lovable:     *   **Trello:** Send som et nytt kort.
+Lovable:     *   **E-post:** For dypere bearbeidelse senere.
+Lovable: *   **Arkivering:** Funksjon for å "tømme" innboksen etter at ideen er eksportert, slik at appen forblir ryddig.
+Lovable: 
+Lovable: ## Teknisk Stack
+Lovable: *   **Rammeverk:** React med Vite (optimalisert for mobil).
+Lovable: *   **Styling:** Tailwind CSS for et rent, akademisk og distrasjonsfritt grensesnitt.
+Lovable: *   **Lagring:** Lokal lagring i nettleseren (LocalStorage) for umiddelbar respons, slik at man ikke trenger innlogging for å starte.
+Lovable: *   **Ikoner:** Lucide-react for enkle, forståelige symboler.
+Lovable: 
+Lovable: ## UI/Design-krav
+Lovable: *   **Minimalisme:** Estetikken skal være "akademisk ren" med mye luft (whitespace), inspirert av verktøy som Notion og Obsidian.
+Lovable: *   **Mørk modus:** Full støtte for mørk modus for kveldsarbeid på lesesalen.
+Lovable: *   **Mobil-først:** Store trykkflater for eksportknapper og enkel navigasjon med én hånd.
+Lovable: *   **Fokus-modus:** Når man skriver, skal alle distraksjoner (menyer o.l.) tones ned.
+Lovable: 
+Lovable: ## Brukerflyt
+Lovable: 1. Brukeren åpner appen og trykker på "Ny idé".
+Lovable: 2. Velger mellom "Tekst" eller "Liste".
+Lovable: 3. Skriver inn tanken.
+Lovable: 4. Trykker på "Eksporter" og velger destinasjon (f.eks. e-post eller Notion).
+Lovable: 5. Notatet arkiveres og skjermen tømmes for neste idé.
+Lovable: 
+Lovable: BYGG DENNE
+BYGG DENNE
