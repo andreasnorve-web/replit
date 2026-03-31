@@ -470,3 +470,31 @@ Lovable: 3.  Sørg for at klokken ikke "hopper" når tallene endres (bruk monosp
 Lovable: 
 Lovable: BYGG DENNE
 BYGG DENNE
+Lovable: # App: Dag Nu
+Lovable: 
+Lovable: Denne appen er en minimalistisk og stilren tidsvisning som gir brukeren umiddelbar oversikt over dagens dato, klokkeslett og relevant kalenderinformasjon. Fokus er på maksimal lesbarhet og et moderne, rent utseende.
+Lovable: 
+Lovable: ## Hovedfunksjoner
+Lovable: *   **Sanntids visning av tid:** Digital klokke som oppdateres hvert sekund.
+Lovable: *   **Dato og ukenummer:** Tydelig visning av dag, dato, måned og inneværende ukenummer.
+Lovable: *   **Helligdagsoversikt:** Automatisk visning av eventuelle offentlige norske helligdager for den gjeldende dagen.
+Lovable: *   **Responsivt design:** Optimalisert for mobilskjermer (iOS og Android).
+Lovable: 
+Lovable: ## Teknisk Stack
+Lovable: *   **Framework:** React med Vite eller Next.js (for web/PWA/Capacitor-kompatibilitet).
+Lovable: *   **Styling:** Tailwind CSS for et rent og moderne grensesnitt.
+Lovable: *   **Biblioteker:** `date-fns` eller standard JavaScript `Intl` API for lokal datoformatering på norsk (bokmål).
+Lovable: 
+Lovable: ## UI/Design-krav
+Lovable: *   **Stil:** Minimalistisk og "Apple-inspirert".
+Lovable: *   **Typografi:** Store, dristige (bold) sans-serif fonter for klokkeslettet.
+Lovable: *   **Fargepalett:** Mørk modus (Dark Mode) som standard med hvit tekst på sort/mørkegrå bakgrunn for å spare batteri på OLED-skjermer.
+Lovable: *   **Layout:** Sentrert innhold med god luft (whitespace). Ingen unødvendige knapper eller menyer.
+Lovable: 
+Lovable: ## Detaljerte krav
+Lovable: 1.  Bruk norsk lokalisering for måneder og dager (f.eks. "Mandag 14. oktober").
+Lovable: 2.  Implementer en funksjon som sjekker norske helligdager.
+Lovable: 3.  Sørg for at klokken ikke "hopper" når tallene endres (bruk monospace-font for tallene om nødvendig).
+Lovable: 
+Lovable: BYGG DENNE
+BYGG DENNE
