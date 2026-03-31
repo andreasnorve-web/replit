@@ -1,1 +1,1 @@
-SketchCloud – Mobilt Tegnebrett med Skylagring er under bygging! Frontend-designsubagent er i gang, API-ruter og PostgreSQL-tabeller (sc_users, sc_drawings) er oppe. Appen vil ligge på /sketchcloud/ med innlogging, tegnebrett og bildegalleri.
+Minimalistisk Digital Alarmklokke er ferdig bygget og live på /alarmklokke/. Sanntidsklokke med norsk dato (nb-NO, Europe/Oslo), alarmfunksjon med Web Audio API-lyd, visuell pulsanimering og avslutt-knapp. Ingen backend – alt kjøres i nettleseren.
