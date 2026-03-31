@@ -1,6 +1,16 @@
-# Bygging startet
+# Bygg fullført: Huskeliste
 
-**Tidspunkt:** 31.3.2026, 18:17:47
-**Status:** Bygger app automatisk med AI...
+**Tidspunkt:** 31.3.2026, 18:18:24
+**Status:** Ferdig
 
-Resultatet oppdateres her når det er ferdig.
+## Hva som ble bygget
+
+En enkel og brukervennlig huskeliste-app med norsk UI og grønt tema. Man kan legge til nye gjøremål, markere dem som fullført, og fjerne dem fra listen. All data lagres lokalt i React state.
+
+## Filer generert
+- App.tsx
+- index.css
+- pages/huskeliste.tsx
+
+## URL
+Appen kjører på /bygg/ i Replit-prosjektet.
