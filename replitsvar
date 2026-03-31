@@ -1,5 +1,1 @@
-Status: Prompt mottatt og sendt til bygging
-Tidspunkt: 2026-03-31 22:16:17
-Byggord: BYGG DENNE oppdaget
-
-Replit Agent har mottatt prompten og vil bygge appen. Svaret oppdateres når byggingen er fullført.
+SketchCloud – Mobilt Tegnebrett med Skylagring er under bygging! Frontend-designsubagent er i gang, API-ruter og PostgreSQL-tabeller (sc_users, sc_drawings) er oppe. Appen vil ligge på /sketchcloud/ med innlogging, tegnebrett og bildegalleri.
