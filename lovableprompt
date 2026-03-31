@@ -119,3 +119,35 @@ Lovable: - Legg inn noen standardverdier for CO2e-faktorer i koden (f.eks: Bensi
 Lovable: 
 Lovable: **Begynn med å sette opp databasemodellen og det grunnleggende grensesnittet på norsk.**
 BYGG DENNE
+Lovable: # App: MatteMoro - Førsteklassingens første kalkulator
+Lovable: 
+Lovable: Dette er en læringsorientert og barnevennlig kalkulator spesielt designet for barn i 1. klasse. Appen skal fungere som et utforskende verktøy for å forstå grunnleggende matematikk gjennom et fargerikt og engasjerende grensesnitt.
+Lovable: 
+Lovable: ## Hovedfunksjoner
+Lovable: - **Enkel aritmetikk:** Støtte for addisjon (+) og subtraksjon (-).
+Lovable: - **Store knapper:** Store, lette-å-trykke talltaster (0-9) og operasjonstaster.
+Lovable: - **Visuelt display:** Et stort og tydelig display som viser hele regnestykket (f.eks. "5 + 2 = 7").
+Lovable: - **Tydelig sletting:** En stor "C" eller "Slett"-knapp for å starte på nytt.
+Lovable: - **Responsivitet:** Appen må fungere like godt på nettbrett som på mobil/PC.
+Lovable: 
+Lovable: ## Teknologi/Stack
+Lovable: - **Frontend:** React med Vite (for rask respons og moderne grensesnitt).
+Lovable: - **Styling:** Tailwind CSS for design og Framer Motion for animasjoner.
+Lovable: - **Språk:** Norsk (bokmål).
+Lovable: 
+Lovable: ## UI/Design og brukeropplevelse
+Lovable: - **Tema:** Lekent, fargerikt og barnevennlig. Bruk en palett med klare primærfarger (gul, rød, blå, grønn).
+Lovable: - **Animasjoner:** 
+Lovable:     - Knappene skal ha en "spretten" effekt når de trykkes på.
+Lovable:     - Tallene skal animeres mykt inn i displayet.
+Lovable:     - Når man trykker på "=" skal resultatet gjerne markeres med en liten animert feiring (f.eks. stjerner eller at tallet hopper).
+Lovable: - **Typografi:** Bruk en rund og lettlest font (f.eks. Quicksand eller en lignende Google Font).
+Lovable: - **Enkelhet:** Ingen avanserte funksjoner som prosent, kvadratrot eller negative tall i resultatet (hvis resultatet blir negativt, vis en pedagogisk melding eller brems ved 0).
+Lovable: 
+Lovable: ## Spesifikke krav
+Lovable: - Ingen komplekse menyer eller innstillinger.
+Lovable: - Grensesnittet skal være selvforklarende for et barn som akkurat har lært å lese tall.
+Lovable: - Bruk store vanlige siffer (1, 2, 3...).
+Lovable: 
+Lovable: BYGG DENNE
+BYGG DENNE
