@@ -314,3 +314,29 @@ Lovable: 3. Sørg for at time-for-time visningen er den mest fremtredende delen 
 Lovable: 
 Lovable: BYGG DENNE
 BYGG DENNE
+Lovable: # App: Knekkebrød-Kalkulatoren
+Lovable: 
+Lovable: Dette er en spesialisert kaloriapp skreddersydd for personer som følger en knekkebrød-diett. Appen fungerer som et oppslagsverk og loggføringsverktøy med fokus på nøyaktig kaloriinnhold per skive for alle kommersielle knekkebrødmerker i det norske markedet.
+Lovable: 
+Lovable: ### Hovedfunksjonalitet
+Lovable: *   **Database over knekkebrød:** En omfattende database som inneholder merkevare, navn, kalorier per 100g og viktigst: kalorier per enkelt skive (standardmål).
+Lovable: *   **Strekkodeskanner:** Integrert skanner som lar brukeren skanne knekkebrødpakken for umiddelbar tilgang til næringsinnholdet.
+Lovable: *   **Kalkulator per skive:** En enkel funksjon der brukeren taster inn antall skiver og får totalt kaloriinnhold (inkludert mulighet for å legge til enkelt pålegg hvis ønskelig).
+Lovable: *   **Søk og Filter:** Mulighet til å søke manuelt etter merker (f.eks. Wasa, Sigdal, Leksands) eller filtrere etter lavest kaloriinnhold per skive.
+Lovable: 
+Lovable: ### Teknologi / Stack
+Lovable: *   **Frontend:** React med Tailwind CSS for et responsivt og moderne grensesnitt.
+Lovable: *   **Backend:** Node.js med Express.
+Lovable: *   **Database:** PostgreSQL (via Supabase eller Replit Database) for lagring av merkevarer og strekkodedata.
+Lovable: *   **API:** Integrasjon med Open Food Facts API eller lignende for strekkodeoppslag, med fallback til den lokale databasen.
+Lovable: 
+Lovable: ### UI og Design
+Lovable: *   **Designstil:** Minimalistisk, rent og funksjonelt. Bruk av varme jordfarger (beige, brun, hvit) for å reflektere knekkebrød-temaet.
+Lovable: *   **Brukervennlighet:** Store knapper for skanning og rask logging. Fokus på lesbarhet av kalorier per skive.
+Lovable: *   **Responsivitet:** Appen må fungere sømløst på mobil, da skanning foregår via mobilkamera.
+Lovable: 
+Lovable: ### Datastruktur (Eksempel)
+Lovable: *   Objekter skal inneholde: `brand_name`, `product_name`, `calories_per_100g`, `grams_per_slice`, `calories_per_slice`, `barcode`.
+Lovable: 
+Lovable: BYGG DENNE
+BYGG DENNE
