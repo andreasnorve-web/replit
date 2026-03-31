@@ -498,3 +498,33 @@ Lovable: 3.  Sørg for at klokken ikke "hopper" når tallene endres (bruk monosp
 Lovable: 
 Lovable: BYGG DENNE
 BYGG DENNE
+Lovable: # App: DatoHub Norge
+Lovable: 
+Lovable: En personlig datoportal som viser dagens dato og holder styr på viktige merkedager på tvers av enheter.
+Lovable: 
+Lovable: ## Beskrivelse
+Lovable: Dette er en web-applikasjon som gir brukeren full oversikt over dagens dato i et rent, norsk format. Appen inkluderer en funksjonalitet for nedtelling til spesifikke merkedager og viktige hendelser. Siden appen krever synkronisering mellom enheter, må den inkludere et autentiseringssystem slik at brukerens lagrede merkedager er tilgjengelige overalt.
+Lovable: 
+Lovable: ## Hovedfunksjoner
+Lovable: *   **Sanntids datovisning:** Viser dagens dato tydelig sentrert på skjermen i formatet DD.MM.YYYY (f.eks. 14.05.2024).
+Lovable: *   **Brukerautentisering:** System for registrering og innlogging slik at merkedager lagres i skyen.
+Lovable: *   **Nedtelling til merkedager:** 
+Lovable:     *   Mulighet for brukere å legge til egne merkedager (navn og dato).
+Lovable:     *   Viser antall dager, timer og minutter igjen til hver lagret hendelse.
+Lovable:     *   Mulighet for å redigere og slette merkedager.
+Lovable: *   **Synkronisering:** Full data-synkronisering mellom ulike enheter via en database.
+Lovable: 
+Lovable: ## Teknisk Stack
+Lovable: *   **Frontend:** React med Tailwind CSS for et responsivt og moderne design.
+Lovable: *   **Backend:** Flask eller FastAPI (Python) eller Node.js.
+Lovable: *   **Database:** PostgreSQL eller en innebygd Replit-database for lagring av merkedager og brukerdata.
+Lovable: *   **Autentisering:** Enkelt e-post/passord-system eller integrert med Replit Auth.
+Lovable: 
+Lovable: ## UI/Design-krav
+Lovable: *   **Minimalistisk stil:** Rent og luftig grensesnitt med fokus på lesbarhet.
+Lovable: *   **Responsivt design:** Skal fungere like godt på mobil som på desktop.
+Lovable: *   **Norsk språk:** Alt av tekst, månedsnavn og datoformatering skal være på norsk.
+Lovable: *   **Visuelle elementer:** Bruk av kort (cards) for å skille mellom de ulike nedtellingene.
+Lovable: 
+Lovable: BYGG DENNE
+BYGG DENNE
