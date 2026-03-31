@@ -375,3 +375,32 @@ Lovable: 5. Notatet arkiveres og skjermen tømmes for neste idé.
 Lovable: 
 Lovable: BYGG DENNE
 BYGG DENNE
+Lovable: Her er den strukturerte prompten du kan lime direkte inn i Replit Agent:
+Lovable: 
+Lovable: # App: Barnas Fargeglede
+Lovable: 
+Lovable: Dette er et intuitivt og morsomt tegneprogram utviklet spesifikt for små barn mellom 2 og 6 år. Appen skal være ekstremt brukervennlig, visuelt engasjerende og fjerne alle barrierer for kreativitet ved å bruke stemmestyring og lydveiledning.
+Lovable: 
+Lovable: ## Hovedfunksjoner
+Lovable: *   **Tegneverktøy:** Tilgang til enkle pensler (tykke streker) og fargestifter (teksturerte streker) som er lette å kontrollere.
+Lovable: *   **Fargevalg:** Et stort, fargerikt og visuelt fargehjul som er enkelt å trykke på for små fingre.
+Lovable: *   **Interaktiv Veiledning:** Appen skal inneholde entusiastiske lydinstruksjoner som forklarer hvordan man tegner.
+Lovable: *   **Stemmestyring:** Implementer enkel stemmestyring slik at barna kan si ting som "blå", "rød", "vask" (for å tømme lerretet) eller "større" for å endre farge eller penselstørrelse.
+Lovable: *   **Fullskjerms Lerret:** Et stort og rent tegneområde som reagerer umiddelbart på berøring/mus.
+Lovable: *   **Ingen Lagring:** Tegningene vises kun på skjermen under økten. Når man starter på nytt eller lukker appen, tømmes lerretet (for en trygg og enkel opplevelse uten behov for filbehandling).
+Lovable: 
+Lovable: ## Teknologi og Stack
+Lovable: *   **Framework:** React eller ren HTML5 Canvas med JavaScript.
+Lovable: *   **Stemmestyring:** Web Speech API for gjenkjenning av enkle kommandoer.
+Lovable: *   **Lyd:** Web Audio API for avspilling av instruksjonslyder.
+Lovable: *   **Styling:** Tailwind CSS for et lekent og fargerikt grensesnitt.
+Lovable: 
+Lovable: ## UI/Design-krav
+Lovable: *   **Barnlig Design:** Store knapper med ikoner i stedet for mye tekst.
+Lovable: *   **Høykontrast:** Bruk sterke, klare farger.
+Lovable: *   **Responsivt:** Må fungere sømløst på både nettbrett (touch) og desktop.
+Lovable: *   **Lydfeedback:** Hvert trykk på et verktøy eller en farge bør gi en positiv lydeffekt eller en stemme som sier navnet på fargen.
+Lovable: *   **Sikkerhet:** Ingen menyer som fører ut av appen eller kompliserte innstillinger.
+Lovable: 
+Lovable: BYGG DENNE
+BYGG DENNE
