@@ -642,3 +642,31 @@ Lovable: - *Tilleggstid:* Legg automatisk til 1 minutt dersom egget er kjøleska
 Lovable: 
 Lovable: BYGG DENNE
 BYGG DENNE
+Lovable: # App: Norsk Sanntidsklokke
+Lovable: 
+Lovable: Dette er en minimalistisk web-applikasjon som har som hovedformål å vise nøyaktig norsk tid, dato og ukenummer i et rent og moderne grensesnitt.
+Lovable: 
+Lovable: ### Hovedfunksjoner:
+Lovable: *   **Sanntids digital klokke:** Viser timer, minutter og sekunder (HH:MM:SS) som oppdateres hvert sekund.
+Lovable: *   **Dato og dag:** Viser fullstendig dato (f.eks. mandag 24. mai 2024).
+Lovable: *   **Ukenummer:** Viser gjeldende ukenummer i henhold til norsk standard (ISO-8601).
+Lovable: *   **Tidssone-sikring:** Appen må låses til tidssonen "Europe/Oslo" slik at den alltid viser korrekt norsk tid uavhengig av brukerens lokale enhetsinnstillinger.
+Lovable: 
+Lovable: ### Teknisk Stack:
+Lovable: *   **Rammeverk:** React eller ren HTML/JavaScript.
+Lovable: *   **Styling:** Tailwind CSS for et responsivt og moderne design.
+Lovable: *   **Biblioteker:** Bruk gjerne `date-fns` eller standard JavaScript `Intl`-objekt for formatering av norsk dato og tid.
+Lovable: 
+Lovable: ### UI/Design-krav:
+Lovable: *   **Minimalistisk stil:** Et ryddig, tekstbasert grensesnitt med mye luft (whitespace).
+Lovable: *   **Fargepalett:** Mørk modus (Dark mode) som standard (f.eks. mørkegrå bakgrunn med hvit eller lysegrå tekst).
+Lovable: *   **Typografi:** Bruk en moderne Sans-serif font som er lettlest og skalerer godt.
+Lovable: *   **Responsivitet:** Teksten skal automatisk tilpasse seg skjermstørrelsen (se bra ut på både mobil og desktop).
+Lovable: *   **Sentrering:** All informasjon skal være vertikalt og horisontalt sentrert på skjermen.
+Lovable: 
+Lovable: ### Funksjonelle krav:
+Lovable: *   Klokken må starte umiddelbart når siden lastes.
+Lovable: *   Sørg for at ukenummer-beregningen følger norsk standard (der uken starter på mandag).
+Lovable: 
+Lovable: BYGG DENNE
+BYGG DENNE
