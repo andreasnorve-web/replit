@@ -793,3 +793,29 @@ Lovable: - Begreper: "badjel" (over), "vuoitu" (på/i), "bealli" (halv).
 Lovable: 
 Lovable: BYGG DENNE
 BYGG DENNE
+Lovable: # App: SketchCloud – Mobilt Tegnebrett med Skylagring
+Lovable: 
+Lovable: Dette er en webbasert tegne-app spesielt optimalisert for mobil som lar brukere lage frihåndstegninger, lagre dem i skyen og få tilgang til dem via en personlig brukerkonto.
+Lovable: 
+Lovable: ## Hovedfunksjoner:
+Lovable: *   **Interaktivt Tegnebrett:** Responsivt lerret optimalisert for touch-bevegelser på mobil.
+Lovable: *   **Frihåndstegning:** Jevne bevegelser for tegning med finger eller stylus.
+Lovable: *   **Fargevelger:** En intuitiv meny for å velge mellom ulike farger.
+Lovable: *   **Penseljustering:** Mulighet for å endre tykkelse på penselen via en slider.
+Lovable: *   **Brukersystem:** Full funksjonalitet for registrering, innlogging og utlogging.
+Lovable: *   **Skylagring:** Brukere kan lagre sine ferdige tegninger til sin profil, slik at de er tilgjengelige på tvers av enheter.
+Lovable: *   **Galleri:** En oversikt over brukerens tidligere lagrede tegninger med mulighet for å slette eller laste dem ned.
+Lovable: 
+Lovable: ## Teknisk Stack:
+Lovable: *   **Frontend:** React med Tailwind CSS for responsivt design.
+Lovable: *   **Backend:** Firebase eller Supabase for autentisering og bilde/database-lagring.
+Lovable: *   **Tegne-logikk:** HTML5 Canvas API med støtte for "Pointer Events" for best mobil-respons.
+Lovable: 
+Lovable: ## UI/Design-krav:
+Lovable: *   **Mobile-first:** Grensesnittet skal være rent og maksimere plassen til selve tegneflaten.
+Lovable: *   **Flytende verktøylinje:** En minimalistisk verktøylinje (gjerne nederst) som inneholder fargevalg, penselstørrelse, angre-knapp og lagre-knapp.
+Lovable: *   **Minimalistisk stil:** Moderne og lyst design med tydelige ikoner for verktøyene.
+Lovable: *   **Responsivt lerret:** Tegneflaten må automatisk tilpasse seg skjermstørrelsen uten å slette pågående arbeid.
+Lovable: 
+Lovable: BYGG DENNE
+BYGG DENNE
