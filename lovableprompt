@@ -735,3 +735,33 @@ Lovable:     *   "Menos cuarto" (Kvart på)
 Lovable: 
 Lovable: BYGG DENNE
 BYGG DENNE
+Lovable: # App: GangeMesteren
+Lovable: 
+Lovable: Dette er en interaktiv og pedagogisk læringsapp designet for å hjelpe barn med å mestre den lille gangetabellen (1-10) gjennom spillbasert læring og tidspress.
+Lovable: 
+Lovable: ### Hovedfunksjoner
+Lovable: *   **Gangetrening (1-10):** Appen genererer tilfeldige multiplikasjonsoppgaver basert på tallene 1 til 10.
+Lovable: *   **Tidspress-modus:** Brukeren må svare på så mange oppgaver som mulig innenfor en tidsfrist (f.eks. 60 sekunder) for å skape en engasjerende "løp mot klokka"-opplevelse.
+Lovable: *   **Flervalgssystem:** For hver oppgave presenteres 4 svaralternativer hvor kun ett er riktig.
+Lovable: *   **Umiddelbar tilbakemelding:** 
+Lovable:     *   Ved riktig svar får brukeren en positiv visuell bekreftelse og poeng.
+Lovable:     *   Ved feil svar viser appen umiddelbart hva som var det korrekte svaret før man går videre til neste oppgave.
+Lovable: *   **Poengsum og Highscore:** Appen holder oversikt over nåværende poengsum og lagrer barnets personlige rekord lokalt.
+Lovable: 
+Lovable: ### Teknologi / Stack
+Lovable: *   **Rammeverk:** React (Vite)
+Lovable: *   **Styling:** Tailwind CSS for et moderne og responsivt design.
+Lovable: *   **Ikoner:** Lucide-react for visuelle elementer.
+Lovable: 
+Lovable: ### UI/Design-krav
+Lovable: *   **Barnevennlig design:** Bruk store knapper, lystige farger (blått, grønt, gult) og store, lettleste fonter.
+Lovable: *   **Responsiv layout:** Appen må fungere like godt på nettbrett som på mobil og PC.
+Lovable: *   **Visuell fremgang:** En tydelig nedtellingsklokke eller en progress-bar som viser hvor mye tid som er igjen.
+Lovable: *   **Enkel navigasjon:** Store knapper for å "Starte spill" og "Prøv igjen".
+Lovable: 
+Lovable: ### Funksjonell logikk
+Lovable: 1.  **Generering av svar:** De feilaktige svaralternativene skal ligge i nærheten av det riktige svaret for å gjøre det litt utfordrende (f.eks. 6x7 = 42, alternativer: 40, 42, 48, 36).
+Lovable: 2.  **Spillslutt:** Når tiden går ut, vises et oppsummeringsbilde med antall riktige svar og om man har satt ny rekord.
+Lovable: 
+Lovable: BYGG DENNE
+BYGG DENNE
