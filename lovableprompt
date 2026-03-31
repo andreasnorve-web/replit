@@ -611,3 +611,34 @@ Lovable: - Når brukeren skinner eller liker bilder, skal vekten av nøkkelorden
 Lovable: 
 Lovable: BYGG DENNE
 BYGG DENNE
+Lovable: # App: Den Perfekte Eggtimeren
+Lovable: 
+Lovable: Dette er en minimalistisk og funksjonell web-applikasjon som hjelper brukeren med å koke det perfekte egget hver gang, med fokus på enkelhet og brukervennlighet.
+Lovable: 
+Lovable: ## Hovedfunksjoner
+Lovable: - **Valg av hardhetsgrad:** Brukeren skal kunne velge mellom bløtkokt, smilende og hardkokt egg.
+Lovable: - **Temperaturjustering:** Mulighet for å velge om egget kommer rett fra kjøleskapet eller er romtemperert (dette skal påvirke koketiden automatisk).
+Lovable: - **Interaktiv nedtelling:** En visuell timer som teller ned tiden.
+Lovable: - **Stemmeassistent:** En innebygd stemme (Web Speech API) som varsler brukeren når det er kort tid igjen, og teller ned de siste 10 sekundene høyt.
+Lovable: - **Lydvarsel:** Et tydelig lydsignal når tiden er ute.
+Lovable: 
+Lovable: ## Teknologi/Stack
+Lovable: - **Frontend:** React med Vite (for rask respons og moderne grensesnitt).
+Lovable: - **Styling:** Tailwind CSS for et rent og moderne design.
+Lovable: - **Lyd/Stemme:** Bruk av nettleserens innebygde `window.speechSynthesis` for stemmebeskjeder.
+Lovable: 
+Lovable: ## UI/Design-krav
+Lovable: - **Stil:** Minimalistisk, moderne og "ren" estetikk.
+Lovable: - **Responsivitet:** Appen må fungere perfekt på mobil, da den primært vil bli brukt på kjøkkenet.
+Lovable: - **Knapper:** Store, tydelige knapper for valg av eggtype (f.eks. ved bruk av ikoner eller bilder av egg).
+Lovable: - **Fargepalett:** Myke, varme farger (eggeplomme-gul, hvit, lys grå).
+Lovable: - **Status:** Tydelig visning av valgte innstillinger før start.
+Lovable: 
+Lovable: ## Logikk for koketid (eksempelverdier)
+Lovable: - **Bløtkokt:** 6 minutter (justert for temp)
+Lovable: - **Smilende:** 8 minutter (justert for temp)
+Lovable: - **Hardkokt:** 10 minutter (justert for temp)
+Lovable: - *Tilleggstid:* Legg automatisk til 1 minutt dersom egget er kjøleskapskaldt.
+Lovable: 
+Lovable: BYGG DENNE
+BYGG DENNE
