@@ -178,3 +178,30 @@ Lovable: *   Oppdateringsfrekvens: Klokken skal oppdateres hvert sekund for å i
 Lovable: 
 Lovable: BYGG DENNE
 BYGG DENNE
+Lovable: # App: British GMT Tracker
+Lovable: 
+Lovable: En stilren og minimalistisk mobilapplikasjon som viser nøyaktig GMT/UTC-tid, designet spesifikt for å gi brukeren en enkel oversikt over britisk standardtid (uten sommertidsjustering).
+Lovable: 
+Lovable: ### Hovedfunksjoner
+Lovable: *   **Digital Tidsvisning:** Sentralt plassert digital klokke i 24-timers format (f.eks. 14:30:05).
+Lovable: *   **Dato og Dag:** Sanntidsvisning av gjeldende ukedag, dag, måned og år under klokken.
+Lovable: *   **Låst Tidssone:** Appen skal konsekvent vise GMT/UTC-tid uavhengig av brukerens lokale tidssone eller enhetens innstillinger.
+Lovable: *   **Ingen Sommertid:** Klokken skal kun forholde seg til GMT og skal ikke justeres for British Summer Time (BST).
+Lovable: 
+Lovable: ### Teknologi og Stack
+Lovable: *   **Rammeverk:** React Native med Expo (for optimal mobilkompatibilitet på iOS og Android).
+Lovable: *   **Språk:** JavaScript/TypeScript.
+Lovable: *   **Stilsett:** Tailwind CSS (via NativeWind) eller standard StyleSheet for et moderne utseende.
+Lovable: 
+Lovable: ### UI/Design-krav
+Lovable: *   **Layout:** Sentrert innhold med fokus på lesbarhet.
+Lovable: *   **Fargepalett:** Mørk modus som standard (svart/møregrå bakgrunn) med kontrasterende tekst (hvit eller neongrønn for "digital" følelse).
+Lovable: *   **Typografi:** Bruk av en tydelig "monospace" eller "digital" font for selve tidsvisningen.
+Lovable: *   **Responsivitet:** Grensesnittet skal tilpasse seg alle skjermstørrelser på mobil.
+Lovable: 
+Lovable: ### Tekniske Detaljer
+Lovable: *   Bruk `Intl.DateTimeFormat` eller `luxon` for å sikre presis GMT-utregning.
+Lovable: *   Oppdateringsfrekvens: Klokken skal oppdateres hvert sekund for å inkludere sekundvisning.
+Lovable: 
+Lovable: BYGG DENNE
+BYGG DENNE
