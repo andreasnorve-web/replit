@@ -1,0 +1,38 @@
+Lovable: Siden beskrivelsen din var veldig kort ("lage en kalkulator"), har jeg utformet en prompt for en moderne, profesjonell og brukervennlig kalkulator med både standard og vitenskapelige funksjoner, pakket inn i et lekkert design.
+Lovable: 
+Lovable: Her er prompten du kan lime direkte inn i Replit Agent:
+Lovable: 
+Lovable: ***
+Lovable: 
+Lovable: # App: NovaCalc – Moderne Multifunksjonell Kalkulator
+Lovable: 
+Lovable: Dette er en responsiv og visuelt tiltalende kalkulator-applikasjon som fungerer like godt på mobil som på desktop. Appen skal kombinere enkelhet for hverdagsbruk med kraftige funksjoner for mer avanserte beregninger.
+Lovable: 
+Lovable: ### Hovedfunksjoner
+Lovable: - **Standard Kalkulator:** Grunnleggende aritmetikk (addisjon, subtraksjon, multiplikasjon, divisjon).
+Lovable: - **Vitenskapelig Modus:** Støtte for potenser, kvadratrot, prosent, parenteser og trigonometriske funksjoner (sin, cos, tan).
+Lovable: - **Historikk-logg:** En oversikt over tidligere utregninger som lagres i økten, slik at brukeren kan klikke på et tidligere resultat for å gjenbruke det.
+Lovable: - **Smarte Tastatursnarveier:** Full støtte for inntasting via fysisk tastatur (tall, Enter for =, Backspace for slett).
+Lovable: - **Feilhåndtering:** Elegant håndtering av matematiske feil (f.eks. ved deling på null) med informative meldinger.
+Lovable: 
+Lovable: ### Teknologi / Stack
+Lovable: - **Frontend:** React.js med Tailwind CSS for styling.
+Lovable: - **Ikoner:** Lucide-react for rene og moderne ikoner.
+Lovable: - **Tilstandshåndtering:** Bruk React Hooks (useState/useEffect) for å håndtere logikk og historikk.
+Lovable: 
+Lovable: ### UI/Design-krav
+Lovable: - **Designstil:** "Glassmorphism" eller en moderne mørk modus (Dark Mode) som standard.
+Lovable: - **Layout:** Et stort, tydelig display som viser både den pågående ligningen og resultatet samtidig.
+Lovable: - **Interaksjon:** Subtile animasjoner når man trykker på knappene (hover/active states).
+Lovable: - **Responsivitet:** Knappene skal skalere sømløst mellom mobilskjerm og PC.
+Lovable: - **Fargekoding:** Bruk kontrasterende farger for operatorer (f.eks. oransje eller blå) og nøytrale farger for tall.
+Lovable: 
+Lovable: ### Spesifikke krav til logikk
+Lovable: - Implementer støtte for flyttall (desimaler) uten avrundingsfeil.
+Lovable: - Legg til en "AC" (All Clear) knapp og en "DEL" (Slett siste tegn) knapp.
+Lovable: - Sørg for at displayet automatisk ruller eller skalerer ned fontstørrelsen hvis tallene blir for lange.
+Lovable: 
+Lovable: BYGG DENNE
+Lovable: 
+Lovable: Utfyllende forklaring fra replit skal svarast ut på "enkel-kalkulator-svar"
+BYGG DENNE
