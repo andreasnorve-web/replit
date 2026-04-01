@@ -60,3 +60,41 @@ Lovable: BYGG DENNE
 Lovable: 
 Lovable: Utfyllende forklaring fra replit skal svarast ut på "digital-klokke-svar"
 BYGG DENNE
+Lovable: Her er en strukturert og detaljert prompt som er optimalisert for Replit Agent:
+Lovable: 
+Lovable: # App: TidsPuls - Minimalistisk Digital Klokke
+Lovable: 
+Lovable: Dette er en moderne, webbasert digital klokke designet for både fokus (fullskjerm) og daglig bruk. Appen skal være estetisk tiltalende med flytende animasjoner og personaliseringsvalg.
+Lovable: 
+Lovable: ## Hovedfunksjoner
+Lovable: *   **Sanntidsvisning:** Nøyaktig visning av timer, minutter og sekunder.
+Lovable: *   **Dato og Dag:** Visning av ukedag, dato og måned i et lesbart format.
+Lovable: *   **Fullskjermmodus:** En dedikert knapp for å sette klokken i fullskjerm (perfekt for bruk som skrivebordspynt).
+Lovable: *   **Visningsvalg:** 
+Lovable:     *   Bytt mellom 12-timers og 24-timers format.
+Lovable:     *   Mulighet for å skjule/vise sekunder.
+Lovable: *   **Tema-velger:** 
+Lovable:     *   Mørk modus (standard) og lys modus.
+Lovable:     *   3-4 ulike fargeaksenter (f.eks. neonblå, smaragdgrønn, minimalistisk hvit).
+Lovable: 
+Lovable: ## Teknologi / Stack
+Lovable: *   **Framework:** React med Vite (for rask ytelse og enkel skalering).
+Lovable: *   **Stil/UI:** Tailwind CSS for design.
+Lovable: *   **Ikoner:** Lucide-react for funksjonsknapper.
+Lovable: *   **Biblioteker:** `date-fns` for enkel dato-formatering (valgfritt, men anbefalt for ryddig kode).
+Lovable: 
+Lovable: ## UI/Design-krav
+Lovable: *   **Typografi:** Bruk en moderne, monospace eller fet sans-serif font (f.eks. JetBrains Mono eller Inter) som gir et digitalt, men moderne preg.
+Lovable: *   **Layout:** Sentrert klokke i midten av skjermen. Kontrollpanel (innstillinger) skal være diskret og plassert nederst eller i et modal-vindu.
+Lovable: *   **Responsivitet:** Appen må skalere sømløst fra mobilskjerm til store 4K-monitorer.
+Lovable: *   **Animasjoner:** Myke overganger når tallene endrer seg (valgfritt) og når man bytter mellom temaer.
+Lovable: 
+Lovable: ## Spesifikke instruksjoner
+Lovable: 1.  Sørg for at klokken henter systemtiden umiddelbart ved oppstart uten "lag".
+Lovable: 2.  Implementer en "Sleep timer"-lignende funksjon hvor skjermen ikke skrur seg av (hvis nettleseren støtter Screen Wake Lock API).
+Lovable: 3.  Lag et grensesnitt som er helt fritt for distraksjoner.
+Lovable: 
+Lovable: BYGG DENNE
+Lovable: 
+Lovable: Utfyllende forklaring fra replit skal svarast ut på "digital-klokke-svar"
+BYGG DENNE
