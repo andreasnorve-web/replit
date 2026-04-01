@@ -1,0 +1,31 @@
+Lovable: Her er en detaljert prompt for Replit Agent basert på din idé om en digital klokke:
+Lovable: 
+Lovable: # App: TidsPuls - Den Moderne Digitale Klokken
+Lovable: 
+Lovable: En stilren og funksjonell digital klokke-applikasjon som fungerer som en fullskjerms tidsvisning for nettleseren. Appen skal kombinere et minimalistisk design med praktiske visningsinnstillinger for både mobil og desktop.
+Lovable: 
+Lovable: ### Hovedfunksjoner:
+Lovable: - **Sanntidsklokke:** Vise timer, minutter og sekunder som oppdateres hvert sekund.
+Lovable: - **Tidsformater:** Brukeren skal kunne veksle mellom 24-timers og 12-timers format (AM/PM).
+Lovable: - **Dato og Dag:** Vise dagens dato, måned og ukedag på norsk.
+Lovable: - **Fullskjermsmodus:** En knapp for å sette appen i fullskjerm (perfekt for bruk på en iPad eller ekstra skjerm).
+Lovable: - **Tilpassing av utseende:**
+Lovable:     - Mulighet for å bytte mellom Mørk og Lys modus.
+Lovable:     - Velge mellom minst 3 ulike fonter (f.eks. en moderne Sans-serif, en klassisk Digital/LED font, og en elegant Serif).
+Lovable:     - Mulighet for å endre farge på teksten.
+Lovable: 
+Lovable: ### Teknisk Stack:
+Lovable: - **Frontend:** HTML5, CSS3 og JavaScript (Vanilla eller React).
+Lovable: - **Styling:** Tailwind CSS for rask og responsiv design.
+Lovable: - **Ikoner:** Lucide-react eller FontAwesome for enkle funksjonsikoner.
+Lovable: 
+Lovable: ### UI/Design-krav:
+Lovable: - **Minimalisme:** Rent oppsett uten forstyrrende elementer.
+Lovable: - **Responsivitet:** Teksten må skalere dynamisk slik at klokken tar opp mesteparten av skjermen uansett enhet.
+Lovable: - **Sentrerering:** Klokken skal være perfekt sentrert både vertikalt og horisontalt.
+Lovable: - **Animasjoner:** Myke overganger når man bytter farger eller tema. Sekundviseren kan gjerne ha en subtil animasjonseffekt.
+Lovable: 
+Lovable: BYGG DENNE
+Lovable: 
+Lovable: Utfyllende forklaring fra replit skal svarast ut på "digital-klokke-svar"
+BYGG DENNE
