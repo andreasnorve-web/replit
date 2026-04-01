@@ -35,3 +35,40 @@ Lovable: BYGG DENNE
 Lovable: 
 Lovable: Utfyllende forklaring fra replit skal svarast ut på "ferge-ruter-svar"
 BYGG DENNE
+Lovable: Her er en detaljert prompt optimalisert for Replit Agent, basert på din idé om en kollektiv-app for fergetider.
+Lovable: 
+Lovable: ***
+Lovable: 
+Lovable: # App: FjordRute – Sanntid Fergeoversikt
+Lovable: 
+Lovable: Dette er en moderne og brukervennlig web-applikasjon som gir brukere sanntidsinformasjon og ruteoversikt for ferger i Norge (via Entur API). Appen skal hjelpe pendlere og reisende med å finne neste avgang, se fergen i kartet og lagre sine faste ruter.
+Lovable: 
+Lovable: ### Hovedfunksjoner:
+Lovable: *   **Søk og destinasjon:** Brukeren skal kunne søke etter spesifikke fergekaier eller ruter (f.eks. "Molde - Vestnes").
+Lovable: *   **Sanntidsdata:** Integrasjon med Entur API (GraphQL) for å hente nøyaktige sanntidstider, forsinkelser og kanselleringer.
+Lovable: *   **Interaktivt Kart:** Et Leaflet/Mapbox-kart som viser fergekaienes plassering og, hvis mulig via API-et, fergens nåværende posisjon.
+Lovable: *   **Favoritter:** Mulighet for å "stjernemerke" ruter slik at de dukker opp øverst på forsiden hver gang appen åpnes.
+Lovable: *   **Neste avganger:** En tydelig visning av de neste 5 avgangene for en valgt kai, med nedtelling (f.eks. "Om 12 minutter").
+Lovable: *   **Geolokasjon:** Knapp for å finne nærmeste fergekai basert på brukerens GPS-posisjon.
+Lovable: 
+Lovable: ### Teknologisk Stack:
+Lovable: *   **Frontend:** React med Vite for hurtighet.
+Lovable: *   **Styling:** Tailwind CSS for et rent og moderne grensesnitt.
+Lovable: *   **API:** Entur GraphQL API (https://api.entur.io/journey-planner/v3/graphql).
+Lovable: *   **Kart:** React-Leaflet.
+Lovable: *   **Ikoner:** Lucide-React.
+Lovable: 
+Lovable: ### UI/Design-krav:
+Lovable: *   **Designstil:** Minimalistisk, skandinavisk design med fokus på lesbarhet (høy kontrast).
+Lovable: *   **Fargepalett:** Maritimt tema (dyp blå, hvit og lysegrå), med varslingsfarger (gul/rød) for avvik eller kanselleringer.
+Lovable: *   **Responsivitet:** Appen må være "Mobile First", da de fleste sjekker fergetider mens de er på farten, men den skal også fungere sømløst på desktop.
+Lovable: *   **Komponenter:** Store trykkflater for knapper, tydelige kort for ruteinformasjon og en enkel navigasjonsmeny i bunn (Søk, Kart, Favoritter).
+Lovable: 
+Lovable: ### Datastruktur:
+Lovable: *   Bruk `localStorage` for å lagre brukerens favorittruter lokalt i nettleseren.
+Lovable: *   Implementer feilhåndtering dersom API-et er nede eller dersom det ikke finnes flere avganger den aktuelle dagen.
+Lovable: 
+Lovable: BYGG DENNE
+Lovable: 
+Lovable: Utfyllende forklaring fra replit skal svarast ut på "ferge-ruter-svar"
+BYGG DENNE
