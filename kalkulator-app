@@ -1,0 +1,34 @@
+Lovable: Her er en detaljert prompt optimalisert for Replit Agent basert på din beskrivelse.
+Lovable: 
+Lovable: ***
+Lovable: 
+Lovable: # App: ModernCalc Pro
+Lovable: 
+Lovable: Dette er en moderne, responsiv og brukervennlig web-basert kalkulator utviklet med fokus på ren kode og høy brukervennlighet. Den skal fungere sømløst på både desktop og mobil.
+Lovable: 
+Lovable: ### Hovedfunksjoner
+Lovable: *   **Standard aritmetikk:** Støtte for addisjon, subtraksjon, multiplikasjon og divisjon.
+Lovable: *   **Avanserte funksjoner:** Prosentregning, kvadratrot, og muligheten til å endre fortegn (+/-).
+Lovable: *   **Historikk-logg:** En oversikt over de siste utregningene som er gjort i den gjeldende økten.
+Lovable: *   **Slettemuligheter:** "C" for å fjerne nåværende inntasting, og "AC" for å nullstille alt.
+Lovable: *   **Tastaturstøtte:** Brukere skal kunne bruke talltastene og operatørene på tastaturet for å utføre beregninger.
+Lovable: 
+Lovable: ### Teknologi / Stack
+Lovable: *   **Frontend:** HTML5, CSS3 og moderne JavaScript (ES6+).
+Lovable: *   **Stil:** Rent grensesnitt uten behov for tunge rammeverk, men bruk gjerne Flexbox/Grid for layout.
+Lovable: 
+Lovable: ### UI / Design-krav
+Lovable: *   **Stilrent design:** Et "Dark Mode"-inspirert utseende med dype gråtoner og kontrastfarger for operatørknapper (f.eks. oransje eller blå).
+Lovable: *   **Responsivitet:** Kalkulatoren skal sentreres på skjermen og skalere vakkert ned til mobilskjermer.
+Lovable: *   **Interaktivitet:** Knapper skal ha hover-effekter og en subtil animasjon når de klikkes.
+Lovable: *   **Display:** Stort, tydelig display som viser nåværende tall, med en mindre tekstlinje over som viser den pågående ligningen.
+Lovable: 
+Lovable: ### Spesifikasjoner
+Lovable: *   Håndter flyttall (desimaler) korrekt.
+Lovable: *   Implementer logikk for å forhindre "Division by zero"-feil med en ryddig feilmelding.
+Lovable: *   Sørg for at historikken lagres i minnet (array) og vises i et sidepanel eller under kalkulatoren.
+Lovable: 
+Lovable: BYGG DENNE
+Lovable: 
+Lovable: Utfyllende forklaring fra replit skal svarast ut på "kalkulator-app-svar"
+BYGG DENNE
