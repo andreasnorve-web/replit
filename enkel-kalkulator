@@ -36,3 +36,38 @@ Lovable: BYGG DENNE
 Lovable: 
 Lovable: Utfyllende forklaring fra replit skal svarast ut på "enkel-kalkulator-svar"
 BYGG DENNE
+Lovable: Her er en detaljert programmeringsprompt for Replit Agent basert på din beskrivelse:
+Lovable: 
+Lovable: # App: Moderne Kalkulator Pro
+Lovable: 
+Lovable: Denne appen er en brukervennlig, responsiv og visuelt tiltalende kalkulator-applikasjon som fungerer direkte i nettleseren. Den skal håndtere både enkle og avanserte matematiske beregninger med et moderne grensesnitt.
+Lovable: 
+Lovable: ## Hovedfunksjoner
+Lovable: - **Grunnleggende aritmetikk:** Støtte for addisjon, subtraksjon, multiplikasjon og divisjon.
+Lovable: - **Avanserte funksjoner:** Prosentregning, kvadratrot og muligheten til å endre fortegn (+/-).
+Lovable: - **Historikk:** En logg som viser de siste utregningene brukeren har gjort.
+Lovable: - **Slettemekanismer:** "AC" (All Clear) for å nullstille alt, og en sletteknapp for å fjerne siste inntastede siffer.
+Lovable: - **Tastaturstøtte:** Brukeren skal kunne skrive inn tall og operasjoner direkte fra tastaturet.
+Lovable: 
+Lovable: ## Teknologi / Stack
+Lovable: - **Frontend:** HTML5, CSS3 og moderne JavaScript (ES6+).
+Lovable: - **Styling:** Bruk Tailwind CSS for rask og pen styling.
+Lovable: - **Struktur:** En énsides applikasjon (SPA) som er lynrask.
+Lovable: 
+Lovable: ## UI / Design-krav
+Lovable: - **Stil:** "Dark Mode" som standard (mørkegrå/svart bakgrunn).
+Lovable: - **Knapper:** Runde eller avrundede knapper med tydelige fargekoder (f.eks. oransje for operatorer, lysere grå for funksjoner, mørkegrå for tall).
+Lovable: - **Responsivitet:** Appen skal se bra ut på både mobil og desktop. Kalkulatoren skal sentreres midt på skjermen.
+Lovable: - **Display:** Et stort, tydelig felt øverst som viser nåværende tall, samt et mindre felt over dette som viser den aktive utregningen (f.eks. "12 + 45").
+Lovable: 
+Lovable: ## Spesifikke instruksjoner
+Lovable: - Implementer logikk som forhindrer feil (f.eks. ved delekalkulasjoner på null).
+Lovable: - Sørg for at tall ikke flyter utenfor displayet (bruk dynamisk fontstørrelse eller scrolling).
+Lovable: - Bruk Smooth transitions ved trykk på knapper (hover-effekter).
+Lovable: 
+Lovable: BYGG DENNE
+Lovable: 
+Lovable: VIKTIG: Ikkje still oppfølgingsspørsmål. Dersom du treng avklaringar, skriv dei til filen "enkel-kalkulator-svar" på GitHub saman med svaret ditt, så vil Lovable lese det derifrå.
+Lovable: 
+Lovable: Utfyllende forklaring fra replit skal svarast ut på "enkel-kalkulator-svar"
+BYGG DENNE
